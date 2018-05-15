@@ -1,4 +1,2 @@
-rootProject.name = 'mhealth'
-
 include ':mhealthformat', ':mhealthformat-actigraph', ':mhealthformat-studymanager', ':mhealthformat-fileupload'
 
